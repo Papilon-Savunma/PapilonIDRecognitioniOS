@@ -1,0 +1,16 @@
+PODS:
+  - PapilonIDRecognitioniOS (0.1.0)
+
+DEPENDENCIES:
+  - PapilonIDRecognitioniOS (from `../`)
+
+EXTERNAL SOURCES:
+  PapilonIDRecognitioniOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PapilonIDRecognitioniOS: a05df307403350d4f033529c4165ec3f5dbf1efe
+
+PODFILE CHECKSUM: 8a8db6bd746f2a7f88fcdda34c57e1522ced4187
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,8 @@
+use_frameworks!
+
+platform :ios, '13.0'
+
+target 'PapilonIDRecognitioniOS_Example' do
+  pod 'PapilonIDRecognitioniOS'
+
+end
