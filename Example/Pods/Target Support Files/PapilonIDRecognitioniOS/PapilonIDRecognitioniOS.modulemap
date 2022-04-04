@@ -1,0 +1,6 @@
+framework module PapilonIDRecognitioniOS {
+  umbrella header "PapilonIDRecognitioniOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
