@@ -37,14 +37,14 @@ Here are the options for ID recognitions:
 | `id_type` | `string` | `2`   | TC Old ID Card Front |
 | `id_type` | `string` | `3`   | TC Old ID Card Back |
 | `id_type` | `string` | `4`   | TC New Passport |
-| `id_type` | `string` | `5`   | TC Old Passport | (under development)
+| `id_type` | `string` | `5`   | TC Old Passport (under development)| 
 | `id_type` | `string` | `6`   | TC New Driving Licence Front |
 | `id_type` | `string` | `7`   | TC New Driving Licence Back |
-| `id_type` | `string` | `8`   | TC Old Driving Licence Front | (under development)
-| `id_type` | `string` | `9`   | TC Old Driving Licence Back | (under development)
-| `id_type` | `string` | `10`  | AZR ID Front | (under development)
-| `id_type` | `string` | `11`  | AZR Passport | (under development)
-| `id_type` | `string` | `12`  | IR Passport | (under development)
+| `id_type` | `string` | `8`   | TC Old Driving Licence Front (under development)|
+| `id_type` | `string` | `9`   | TC Old Driving Licence Back (under development)|
+| `id_type` | `string` | `10`  | AZR ID Front (under development)| 
+| `id_type` | `string` | `11`  | AZR Passport (under development)| 
+| `id_type` | `string` | `12`  | IR Passport (under development)| 
 | `id_type` | `string` | `13`  | PK NIC ID Front |
 | `id_type` | `string` | `14`  | PK NIC ID Back |
 | `id_type` | `string` | `15`  | PK NICOP ID Front |
