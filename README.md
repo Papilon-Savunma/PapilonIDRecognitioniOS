@@ -14,7 +14,7 @@ PapilonIDRecognitioniOS is available through [CocoaPods](https://cocoapods.org).
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'PapilonIDRecognitioniOS'
+pod 'PapilonIDRecognitioniOS', '0.3.0'
 ```
 ## Setup PapilonIDRecognitioniOS
 You will need to have a licence token to run this SDK. Please contact [Papilon Savunma](https://papilon.com.tr/tr/) or send an E-mail to kaganerbay@papilon.com.tr
