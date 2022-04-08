@@ -82,4 +82,4 @@ func captureOutput(_ output: AVCaptureOutput,didOutput sampleBuffer: CMSampleBuf
 
 ## License
 
-PapilonIDRecognitioniOS is available under the MIT license. See the LICENSE file for more info.
+See the LICENSE file for more info.
